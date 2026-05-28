@@ -228,15 +228,3 @@ python silver_gold_dq_pipeline.py
 * IoT anomaly detection
 
 ---
-
-# Resume Impact
-
-This project demonstrates:
-
-* Enterprise-scale IoT data engineering
-* Production-grade DQ frameworks
-* Advanced PySpark transformations
-* Lakehouse architecture expertise
-* Industrial telemetry analytics engineering
-
----
