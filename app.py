@@ -4,7 +4,7 @@ import pandas as pd
 import sqlite3
 from pathlib import Path
 
-st.set_page_config(page_title="Data Governance Portal", layout="wide")
+st.set_page_config(page_title="Apex - Data Governance Platform", layout="wide")
 
 
 # Create required directories
@@ -94,7 +94,7 @@ df = pd.read_sql_query(
     conn
 )
 
-st.title("Data Governance & Metadata Management Portal")
+st.title("Apex - Data Governance & Metadata Management Platform")
 
 st.subheader("Dataset Registry")
 
