@@ -1,23 +1,11 @@
 # AI and Data Engineering Projects by Atharva Kulkarni  
 
-Welcome to my GitHub repository! Here, you'll find a collection of projects showcasing my expertise and passion for Artificial Intelligence, Machine Learning, and Deep Learning. These projects demonstrate my skills in building predictive models, exploring generative AI applications, and implementing advanced deep learning techniques.  
+Welcome to my GitHub repository! Here, you'll find a collection of projects showcasing my expertise and passion for Data Engineering, Artificial Intelligence, Machine Learning, and Deep Learning. These projects demonstrate my skills in building predictive models, exploring generative AI applications, and implementing advanced deep learning techniques.  
 
 ---
 
 ## 📁 Project Categories    
 
-### 🤖 **Generative AI**  
-- Custom language models for text generation and summarization.  
-- Exploration of cutting-edge models like GPT and diffusion models.  
-- Creative projects involving AI-generated art and text.  
-
-### 🖥️ **Deep Learning**  
-- Neural network architectures for image and speech recognition.  
-- Computer vision projects using Convolutional Neural Networks (CNNs).  
-- Experimentation with cutting-edge frameworks like TensorFlow and PyTorch.
-
-
-  
 ## Data Engineering
 
 # Engine Telemetry Data Quality Pipeline
@@ -219,7 +207,17 @@ Silver Layer (Clean + Standardized + SCD + Governance)
 Gold Layer (Commercial Analytics Data Products)
      ↓
 Power BI / Tableau
-##############################################################################################################################
+##########################################################################################################
+
+### 🤖 **Generative AI**  
+- Custom language models for text generation and summarization.  
+- Exploration of cutting-edge models like GPT and diffusion models.  
+- Creative projects involving AI-generated art and text.  
+
+### 🖥️ **Deep Learning**  
+- Neural network architectures for image and speech recognition.  
+- Computer vision projects using Convolutional Neural Networks (CNNs).  
+- Experimentation with cutting-edge frameworks like TensorFlow and PyTorch.
 
 ## 📌 Highlights  
 - 🌟 **Large Language Models (LLMs):** Development and fine-tuning of LLMs for specialized applications.  
