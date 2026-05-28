@@ -1,4 +1,4 @@
-cummins_data_governance_portal/
+data_governance_portal/
 │
 ├── app.py
 ├── requirements.txt
