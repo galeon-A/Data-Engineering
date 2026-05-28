@@ -148,4 +148,3 @@ if st.session_state.role == "Admin":
     st.button("Approve Dataset")
 
     st.button("Trigger Validation")
-```
