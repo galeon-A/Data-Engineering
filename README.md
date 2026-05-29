@@ -43,7 +43,7 @@ This serves as a portfolio-grade demonstration of:
 * Medallion architecture implementation
 * IoT telemetry processing pipelines
 * Delta Lake engineering workflows
-##############################################################################################
+####################################################################################
 
 # Data Governance & Metadata Management Portal
 
@@ -63,7 +63,7 @@ An end-to-end data governance and metadata management project built using:
 - Governance Dashboard
 - Role-based login simulation
 - Downloadable HTML reports
-################################################################################################
+#####################################################################################
 
 # Pharma Commercial Patient Journey Lakehouse
 Overview
