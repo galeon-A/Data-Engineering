@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 import sqlite3
 from pathlib import Path
-```python id="5vwphf"
+
 import os
 import pandas as pd
 from pathlib import Path
