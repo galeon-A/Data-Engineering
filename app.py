@@ -76,7 +76,7 @@ if not os.path.exists(report_path):
 
     with open(report_path, "w") as f:
         f.write(html_report)
-```
+
 
 
 st.set_page_config(page_title="Apex - Data Governance Platform", layout="wide")
