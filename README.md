@@ -1,4 +1,4 @@
-Industrial IoT Engine Telemetry Data Quality Platform
+# Industrial IoT Engine Telemetry Data Quality Platform
 Overview
 
 An enterprise-scale Industrial IoT telemetry and data quality platform built using PySpark, Delta Lake, and Databricks.
@@ -45,7 +45,7 @@ This serves as a portfolio-grade demonstration of:
 * Delta Lake engineering workflows
 #######################################################################################################
 
-Pharma Commercial Patient Journey Lakehouse
+# Pharma Commercial Patient Journey Lakehouse
 Overview
 
 An enterprise-scale healthcare and pharmaceutical data engineering platform built using PySpark, Delta Lake, and Databricks architecture principles.
