@@ -1,0 +1,10 @@
+
+paths:
+  raw: data/raw
+  bronze: data/bronze
+  silver: data/silver
+  gold: data/gold
+
+fraud:
+  high_value_threshold: 3000
+  velocity_limit: 5
